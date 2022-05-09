@@ -80,9 +80,7 @@ function getCheapestHotel (input) { //DO NOT change the function's name.
         menorTarifa = totalTarifaRidgewood
         nomeMenorTarifa = "Ridgewood"
     }
-
     console.log(nomeMenorTarifa)
-
     return nomeMenorTarifa
 }
 
